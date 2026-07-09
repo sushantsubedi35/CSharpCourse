@@ -13,8 +13,8 @@ Declare three variables for Physics, Chemistry, and Mathematics marks, then calc
 
 4.
 
-Store the radius of a circle in a variable and calculate the area.
 
+Store the radius of a circle in a variable and calculate the area.
 5.
 
 Swap the values of two variables using a third variable.
