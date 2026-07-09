@@ -3,7 +3,7 @@ using System;
 
  class Question1
 {
-     public static void Display()
+     public static void Main ()
      {
         string name;
         int age;
