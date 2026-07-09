@@ -4,10 +4,10 @@ using System;
 {
     public static void Main()
     {
-        int Physics =44;
-        int Chemistry =33;
-        int Mathematics =22;
-         
-         Console.WriteLine(Physics+Chemistry+Mathematics);
+        int physics =44;
+        int chemistry =33;
+        int mathematics =22;
+        int total=physics+chemistry+mathematics ;
+         Console.WriteLine($"The total number is {total} ");
     }
 }

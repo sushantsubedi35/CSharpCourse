@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\CLASS12\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\CSharpCourse\\CSharp\\CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\CLASS12\\CSharpCourse\\CSharp\\CSharp.csproj",
       "projectName": "CSharp",
-      "projectPath": "C:\\Users\\ACER\\CSharpCourse\\CSharp\\CSharp.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\CSharpCourse\\CSharp\\obj\\",
+      "projectPath": "C:\\Users\\CLASS12\\CSharpCourse\\CSharp\\CSharp.csproj",
+      "packagesPath": "C:\\Users\\CLASS12\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CLASS12\\CSharpCourse\\CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\CLASS12\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
